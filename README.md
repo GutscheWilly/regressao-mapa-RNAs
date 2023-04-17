@@ -17,7 +17,7 @@ Implementação de um modelo de regressão usando redes neurais com o objetivo d
 
 <img src=".\assets\mapa.png" ><img>
 
-## Faixa etária dos preços:
+## Faixa dos preços:
 
 <h3>Azul: até $400.000 <h3>
 <h3>Verde: $400.000 - $700.000<h3>
