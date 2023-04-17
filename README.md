@@ -16,3 +16,11 @@ Implementação de um modelo de regressão usando redes neurais com o objetivo d
 # Mapa da localização dos imóveis com exibição dos preços estimados:
 
 <img src=".\assets\mapa.png" ><img>
+
+## Faixa etária dos preços:
+
+<h3>Azul: até $400.000 <h3>
+<h3>Verde: $400.000 - $700.000<h3>
+<h3>Amarelo: $700.000 - $1.000.000<h3>
+<h3>Laranja: $1.000.000 - $2.500.000<h3>
+<h3>Vermelho: superior a $2.500.000<h3>
