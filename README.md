@@ -1,7 +1,7 @@
 # Aprendizagem de Máquina II (Tarefa de Regressão com RNAs e Mapas)
 
 # Acesso ao COLAB: 
-https://colab.research.google.com/drive/1RcnSzKMVSsZlQt8dThJJ-3Jf7n16lSdA?usp=sharing
+https://colab.research.google.com/drive/1KZLnmbU5dxsNvOU_bI0Eiq6dbas8lkf3?usp=sharing
 
 # Grupo: 
 
