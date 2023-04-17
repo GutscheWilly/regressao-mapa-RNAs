@@ -1,5 +1,8 @@
 # Aprendizagem de Máquina II (Tarefa de Regressão com RNAs e Mapas)
 
+# Acesso ao COLAB: 
+https://colab.research.google.com/drive/1RcnSzKMVSsZlQt8dThJJ-3Jf7n16lSdA?usp=sharing
+
 # Grupo: 
 
 <h3> Jamil Anderson Mansur - RA: 163.812<h3>
